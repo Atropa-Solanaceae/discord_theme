@@ -2,7 +2,7 @@
 // @name          Discord Theme
 // @namespace     https://www.artemive.tk/ashore
 // @description   Changes the background of discord to whatever you want it to be
-// @author        Nightshade
+// @author        Solanaceae
 // @version       1.0
 // @match         https://discord.com/*
 // @run-at        document-start
