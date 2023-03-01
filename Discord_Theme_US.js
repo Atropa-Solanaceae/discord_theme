@@ -2,19 +2,16 @@
 // @name          Discord Theme
 // @namespace     https://www.artemive.tk/ashore
 // @description   Changes the background of discord to whatever you want it to be
-// @author        Solanaceae
+// @author        Nightshade
 // @version       1.0
-// @include       http://discord.com/*
-// @include       https://discord.com/*
-// @include       http://*.discord.com/*
-// @include       https://*.discord.com/*
+// @match         https://discord.com/*
 // @run-at        document-start
 // @icon          https://s1.qwant.com/thumbr/0x380/9/7/9818042abd0c8c4319604458db0915ebff26c483497d6f79160cd8fb9c002f/Discord_icon-1-e1594299821864.png?u=https%3A%2F%2Fi2.wp.com%2Ftctgaming.com%2Fwp-content%2Fuploads%2F2020%2F07%2FDiscord_icon-1-e1594299821864.png%3Ffit%3D1484%252C1484%26ssl%3D1&q=0&b=1&p=0&a=0
 // ==/UserScript==
 (function () {
   var css = [
     "body {",
-    '    background: url(\"https://cdn.discordapp.com/attachments/1050764429798690856/1059576691120418927/bestfileever.jpg\");',
+    '    background: url(\"https://cdn.discordapp.com/attachments/1050764429798690856/1059562345338257458/bestfileever.png\");',
     "    background-attachment: fixed;",
     "    background-position: center;",
     "    background-size: cover;",
